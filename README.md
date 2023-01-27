@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/ismael-lima-9124b7136/">Ismael Lima😃️</a>
+    <a href="https://www.linkedin.com/in/ismael-lima-9124b7136/" target="_blank">Ismael Lima😃️</a>
   </h1>
   
 
